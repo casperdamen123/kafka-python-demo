@@ -16,4 +16,3 @@ COPY src/ ./
 
 # Run the application
 CMD ["sleep", "infinity"] 
-# ["poetry", "run", "python3", "producer.py", "config.ini"]
